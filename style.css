@@ -1,5 +1,6 @@
 body {
     background-image: url("images/panko1.jpeg"), url("images/panko2.jpeg"), url("images/panko3.jpeg");
+    background-position: left, center, right;
     background-repeat: repeat, repeat, repeat;
     background-size: 100px 100px, 100px 100px, 100px 100px;
 }
