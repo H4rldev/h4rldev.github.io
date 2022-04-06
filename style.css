@@ -1,7 +1,7 @@
 body {
     background-image: url("images/panko1.jpeg"), url("images/panko2.jpeg"), url("images/panko3.jpeg");
     background-repeat: repeat, repeat, repeat;
-    background-size: auto;
+    background-size: 100px 100px, 100px 100px, 100px 100px;
 }
 p.message {
     background-image: url("images/paper.jpeg");
