@@ -1,0 +1,10 @@
+body {
+    background-image: url("images/panko1.jpeg"), url("images/panko2.jpeg"), url("images/panko3.jpeg");
+    background-repeat: repeat, repeat, repeat;
+}
+p.message {
+    background-image: url("images/paper.jpeg");
+    @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+}
