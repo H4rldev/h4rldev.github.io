@@ -11,5 +11,8 @@ p.message {
     font-family: 'Roboto', sans-serif;
     text-align: center;
     font-size: large;
-    align-self: center;
+    display: flex;
+    align-items: center;
+    height: 270px;
+    width: 480px;
 }
