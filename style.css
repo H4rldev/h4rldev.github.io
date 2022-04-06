@@ -2,7 +2,7 @@ body {
     background-image: url("images/panko1.jpeg"), url("images/panko2.jpeg"), url("images/panko3.jpeg");
     background-position: left, center, right;
     background-repeat: repeat-y, repeat-y, repeat-y;
-    background-size: 100px 100px, 100px 100px, 100px 100px;
+    background-size: 33.3%, 33.3%, 33.3%;
 }
 p.message {
     background-image: url("images/paper.jpeg");
@@ -11,4 +11,5 @@ p.message {
     font-family: 'Roboto', sans-serif;
     text-align: center;
     font-size: large;
+    align-self: center;
 }
