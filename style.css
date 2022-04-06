@@ -11,9 +11,13 @@ body {
     @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
     font-family: 'Roboto', sans-serif;
     text-align: center;
+    align-self: auto;
     font-size: large;
     display: flex;
     align-items: center;
+    justify-content: center;
+}
+.item {
     height: 270px;
     width: 480px;
 }
