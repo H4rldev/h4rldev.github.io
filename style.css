@@ -6,6 +6,7 @@ body {
 }
 p.message {
     background-image: url("images/paper.jpeg");
+    background-size: 480px 270px;
     @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
     font-family: 'Roboto', sans-serif;
     text-align: center;
