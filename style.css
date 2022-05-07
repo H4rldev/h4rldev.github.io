@@ -9,7 +9,16 @@ html {
 }
 p {
     position: fixed;
-    top: 50%;
+    top: 43.5%;
+    left: 50.5%;
+    transform: translate(-50%, -50%);
+}
+
+img {
+    position: fixed;
+    width: 200px;
+    height: 100px;
+    top: 45%;
     left: 50%;
     transform: translate(-50%, -50%);
 }
