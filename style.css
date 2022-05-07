@@ -6,7 +6,6 @@ body {
     background-repeat: repeat-y, repeat-y, repeat-y;
     background-size: 33.3333%, 33.3333%, 33.3333%;
     text-align: center;
-
 }
 span {
     background-image: url("images/paper.jpeg");
@@ -15,7 +14,6 @@ span {
     left: 75%;
     transform: translate(-25%, -25%);
 }
-
 p {
     position: fixed;
     top: 50%;
